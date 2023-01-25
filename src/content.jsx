@@ -4,7 +4,7 @@ function Projects() {
   
   return (
     <div className="h-screen bg-inherit">
-      <Card />
+      <Card Title="Dino" des="hdashbfhsdbahjfbasdjhfb"/>
     </div>
   );
 }
